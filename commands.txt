@@ -1,0 +1,6 @@
+django-admin                                         helper
+django-admin startproject <app_name>                 create project
+python manage.py runserver                           start server
+python manage.py runserver 5000                      port 
+python manage.py runserver 192.168.1.1:5000          address + port
+python manage.py startapp <file_name>                create modul
